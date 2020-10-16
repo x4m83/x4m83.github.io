@@ -789,7 +789,7 @@ td {
   position: relative;
   -webkit-box-flex: 0;
   -ms-flex: 0 0 100%;
-  flex: 0 0 100%;
+  flex: 0 0 900%;
   max-width: 1240px;
   margin: 3% auto;
   padding: 40px 70px 60px;
@@ -5007,8 +5007,8 @@ a.post-thumbnail:hover {
   padding: 15px 45px;;
   background-color: #252525;
   border-top: 2px solid #333;
-  border-bottom-left-radius: 40px;
-  border-bottom-right-radius: 40px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
 }
 
 .footer-social {
